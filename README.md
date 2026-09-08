@@ -1,2 +1,2 @@
-# software-eng-scaffold
-软件工程课程大作业
+# training-review
+大学生软件实训教学AI检查评价系统
